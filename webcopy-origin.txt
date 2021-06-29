@@ -1,0 +1,80 @@
+Uri: https://cloudupbot.xyz/
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\index.htm
+Content Type: text/html
+
+Uri: https://cloudupbot.xyz/assets/images/fav.png
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\assets\images\fav.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700,900
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\css.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/bundles/2364c530bf9a73645be2f7900e4989049a21143f.css
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\bundles\2364c530bf9a73645be2f7900e4989049a21143f.css
+Content Type: text/css
+
+Uri: https://d33wubrfki0l68.cloudfront.net/bundles/68ff433388f06c53a662046015f04caa943b07bf.css
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\bundles\68ff433388f06c53a662046015f04caa943b07bf.css
+Content Type: text/css
+
+Uri: https://github.com/zarar2312/CloudUPBot
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\zarar2312\CloudUPBot.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/xCWWM64
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\invite\xCWWM64.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=754971268645781525&scope=bot&permissions=805315704
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\oauth2\authorize.html
+Content Type: text/html
+
+Uri: https://www.sopsy.com/d/jYjIHS
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\d\jYjIHS.html
+Content Type: text/html
+
+Uri: https://www.sopsy.com/d/5Y8EiV
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\d\5Y8EiV.html
+Content Type: text/html
+
+Uri: https://www.netlify.com/
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\index-1.htm
+Content Type: text/html
+
+Uri: https://arc.io/widget.min.js
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\widget.min.js
+Content Type: application/javascript
+
+Uri: https://d33wubrfki0l68.cloudfront.net/c164b46b54a3a712be82212a58668d4088297d11/ad0e1/assets/images/cup.png
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\c164b46b54a3a712be82212a58668d4088297d11\ad0e1\assets\images\cup.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/52384143d5257afa7d400accc8aea8c7a8388622/4244e/assets/images/cloudupbackg.mp4
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\52384143d5257afa7d400accc8aea8c7a8388622\4244e\assets\images\cloudupbackg.mp4
+Content Type: video/mp4
+
+Uri: https://api.netlify.com/api/v1/badges/bad5ad9a-f6bf-46e3-ac55-5f0e3c9b59f5/deploy-status
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\api\v1\badges\bad5ad9a-f6bf-46e3-ac55-5f0e3c9b59f5\badge-success.svg
+Content Type: image/svg+xml
+
+Uri: https://d33wubrfki0l68.cloudfront.net/6de036c733e377b1c16c44d63c6536090361569c/71aee/assets/images/kayit.png
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\6de036c733e377b1c16c44d63c6536090361569c\71aee\assets\images\kayit.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/47fd088ccf60401c9604718226e28a87d4952212/911df/assets/images/yonetim.png
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\47fd088ccf60401c9604718226e28a87d4952212\911df\assets\images\yonetim.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/0d1b128d9248e9533f867084d1535d0410cb15c1/dd2bb/assets/images/diger.png
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\0d1b128d9248e9533f867084d1535d0410cb15c1\dd2bb\assets\images\diger.png
+Content Type: image/png
+
+Uri: https://d33wubrfki0l68.cloudfront.net/bundles/50cfb52a08bd4051681b6248b060109dc91bdb4a.js
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\bundles\50cfb52a08bd4051681b6248b060109dc91bdb4a.js
+Content Type: application/javascript
+
+Uri: https://discord.com/invite/ckEz8Yw
+File Name: C:\Downloaded Web Sites\cloudupbot.xyz\invite\ckEz8Yw.html
+Content Type: text/html
+
